@@ -11,4 +11,4 @@ affected:
 section: issue
 ---
 
-*Soon* - In the near future, we will shut down our network for some routine bug fixes and other work. {{< track "2023-02-24 10:35:00" >}}
+*Soons* - In the near future, we will shut down our network for some routine bug fixes and other work. {{< track "2023-02-24 10:35:00" >}}
