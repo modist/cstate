@@ -1,5 +1,5 @@
 ---
-title: New Pipeline Rollout
+title: New Pipeline Rollouts
 date: 2019-10-05 16:24:00 
 resolved: true
 resolvedWhen: 2019-10-05 16:58:00 
